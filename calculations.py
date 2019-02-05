@@ -45,7 +45,8 @@ def andrew_function(num1, num2, num3):
 # num1 * num2 - num3 
 # please return the result
 def david_function(num1, num2, num3):
-    pass
+    return num1 * num2 - num3
+
 
 # shivan's function
 # this should take the input and then apply these steps
