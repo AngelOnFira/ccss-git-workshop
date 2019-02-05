@@ -31,7 +31,7 @@ def anders_function(num1, num2, num3):
 # num1 * num2 + num3 
 # please return the result
 def mcloving_function(num1, num2, num3):
-    pass
+    return num1 * num2 + num3
 
 # andrew's function
 # this should take the input and then apply these steps
