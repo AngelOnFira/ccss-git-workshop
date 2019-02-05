@@ -16,7 +16,7 @@ class TestAllFunctions(unittest.TestCase):
         self.assertEqual(ben_karstad_function(5, 7, 1), 36)
         self.assertEqual(ben_karstad_function(5, 6, 10), 40)
 
-    def test_matt_bobel(self):
+    def test_matt_bobel(self):asrfaser
         self.assertEqual(matt_bobel_function(4, 6, 8), 192)
         self.assertEqual(matt_bobel_function(4, 9, 8), 288)
         self.assertEqual(matt_bobel_function(5, 8, 7), 280)
